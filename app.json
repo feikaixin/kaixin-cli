@@ -1,0 +1,8 @@
+{
+  "pageList": [
+    {
+      "title": "首页",
+      "src": "./app/page/index/main.js"
+    }
+  ]
+}
